@@ -1,0 +1,19 @@
+C:\Users\antho\Documents\GitHub\OOP-PROJECT\Mood Food\obj\Debug\net6.0-windows\Mood Food.csproj.AssemblyReference.cache
+C:\Users\antho\Documents\GitHub\OOP-PROJECT\Mood Food\obj\Debug\net6.0-windows\Mood_Food.Form1.resources
+C:\Users\antho\Documents\GitHub\OOP-PROJECT\Mood Food\obj\Debug\net6.0-windows\Mood_Food.Form2.resources
+C:\Users\antho\Documents\GitHub\OOP-PROJECT\Mood Food\obj\Debug\net6.0-windows\Mood_Food.MyMessageBox.resources
+C:\Users\antho\Documents\GitHub\OOP-PROJECT\Mood Food\obj\Debug\net6.0-windows\Mood Food.csproj.GenerateResource.cache
+C:\Users\antho\Documents\GitHub\OOP-PROJECT\Mood Food\obj\Debug\net6.0-windows\Mood Food.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\Documents\GitHub\OOP-PROJECT\Mood Food\obj\Debug\net6.0-windows\Mood Food.AssemblyInfoInputs.cache
+C:\Users\antho\Documents\GitHub\OOP-PROJECT\Mood Food\obj\Debug\net6.0-windows\Mood Food.AssemblyInfo.cs
+C:\Users\antho\Documents\GitHub\OOP-PROJECT\Mood Food\obj\Debug\net6.0-windows\Mood Food.csproj.CoreCompileInputs.cache
+C:\Users\antho\Documents\GitHub\OOP-PROJECT\Mood Food\bin\Debug\net6.0-windows\Mood Food.exe
+C:\Users\antho\Documents\GitHub\OOP-PROJECT\Mood Food\bin\Debug\net6.0-windows\Mood Food.deps.json
+C:\Users\antho\Documents\GitHub\OOP-PROJECT\Mood Food\bin\Debug\net6.0-windows\Mood Food.runtimeconfig.json
+C:\Users\antho\Documents\GitHub\OOP-PROJECT\Mood Food\bin\Debug\net6.0-windows\Mood Food.dll
+C:\Users\antho\Documents\GitHub\OOP-PROJECT\Mood Food\bin\Debug\net6.0-windows\Mood Food.pdb
+C:\Users\antho\Documents\GitHub\OOP-PROJECT\Mood Food\obj\Debug\net6.0-windows\Mood Food.dll
+C:\Users\antho\Documents\GitHub\OOP-PROJECT\Mood Food\obj\Debug\net6.0-windows\refint\Mood Food.dll
+C:\Users\antho\Documents\GitHub\OOP-PROJECT\Mood Food\obj\Debug\net6.0-windows\Mood Food.pdb
+C:\Users\antho\Documents\GitHub\OOP-PROJECT\Mood Food\obj\Debug\net6.0-windows\Mood Food.genruntimeconfig.cache
+C:\Users\antho\Documents\GitHub\OOP-PROJECT\Mood Food\obj\Debug\net6.0-windows\ref\Mood Food.dll
